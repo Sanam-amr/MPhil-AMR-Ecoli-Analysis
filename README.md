@@ -3,14 +3,14 @@ Python based analysis of antimicrobial resistance patterns in E. coli, structure
 # Antimicrobial Resistance Analysis of E. coli (MPhil Research-Based Project)
 
 ## Background
-This project is based on my MPhil research conducted at Quaid-i-Azam University, Islamabad. My research focused on antimicrobial resistance patterns in ESBL-producing Escherichia coli isolated from urinary tract infection (UTI) samples.
+This project is based on my MPhil research conducted at Quaid-i-Azam University, Islamabad. My research focused on antimicrobial resistance patterns in ESBL-producing Escherichia coli isolated from catheter samples.
 
 During my experimental work, I analyzed resistance patterns using standard microbiological methods. To further understand the data, I organized my findings into a structured dataset and explored them using basic Python tools.
 
 ## About the Dataset
-The dataset used here is derived from my experimental results. It is structured based on observed resistance and sensitivity patterns of E. coli isolates against commonly used antibiotics.
+The dataset used in this project is derived from my MPhil experimental findings. It represents resistance and sensitivity patterns observed in E. coli isolates.
 
-It is not raw instrument output, but a simplified representation created to analyze trends more clearly.
+For the purpose of analysis, the data has been structured into a simplified format suitable for Python based exploration.
 
 ## What I did in this project
 - Converted experimental observations into a structured dataset  
